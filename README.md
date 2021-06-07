@@ -1,5 +1,7 @@
 # NXDK-Menu-Example
-An example of how you would create a menu with controller support using NXDK
+An example of how you would create a menu with controller support using [NXDK](https://github.com/XboxDev/nxdk)
+
+You can use this as a base or reference for your own projects!
 
 This used the [sdl_gamecontroller sample](https://github.com/XboxDev/nxdk/tree/master/samples/sdl_gamecontroller) as a base!
 
